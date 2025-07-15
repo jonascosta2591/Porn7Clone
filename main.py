@@ -692,8 +692,8 @@ class TelegramAlbumTransfer:
             self.logger.info("Cliente Telegram desconectado")
 
 async def main():
-    API_ID = 20372456  # Seu API ID
-    API_HASH = "4bf8017e548b790415a11cc8ed1b9804"
+    API_ID = 24289688  # Seu API ID
+    API_HASH = "3893b312763c36ff495cee93185518be"
     SESSION_NAME = "album_transfer_session"
     SOURCE_CHAT_ID = -1002608875175
     TARGET_CHAT_ID = -1002768598671
